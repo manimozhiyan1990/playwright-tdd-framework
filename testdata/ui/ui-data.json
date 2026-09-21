@@ -1,0 +1,13 @@
+{
+    "Verify cookies pop up content": {
+        "cookiesContent": "We may use cookies and similar technologies to collect information about the ways you"
+    },
+    "Verify closing the cookies pop-up": {
+        "buttonName": "Deny"
+    },
+    "Verify Valid Login with valid credentials": {
+        "buttonName": "Deny",
+        "username": "bharattechacademy5@outlook.com",
+        "password": "BharathTechAcademy#1234"
+    }
+}
