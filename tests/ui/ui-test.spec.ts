@@ -104,7 +104,7 @@ test.describe('Creatio Crm Web Application Automation', () => {
 
     })
     // test 10 -- Verify Valid Login with valid credentials.
-    test.only('Verify Valid Login with valid credentials', async ({ page }) => {
+    test('Verify Valid Login with valid credentials', async ({ page }) => {
         const testData = data['Verify Valid Login with valid credentials'];
         await loginPage.launchApplication();
         await cookiesPage.verifyCookiesPopUpDisplayed();
