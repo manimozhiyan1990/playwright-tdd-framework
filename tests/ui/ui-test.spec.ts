@@ -124,6 +124,7 @@ test.describe('Creatio Crm Web Application Automation', () => {
          await loginPage.clickOnContinueButton();
          await homePage.verifyHomePageIsDisplayed();
          console.log("Test Ends");
-         
+        
+
     })
 })
